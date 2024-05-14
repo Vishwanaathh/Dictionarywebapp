@@ -1,0 +1,10 @@
+body{
+    justify-content: center;
+    text-align: center;
+    color:aliceblue;
+    background-color: peru;
+    font-family: 'Courier New', Courier, monospace;
+}
+#but{
+    width:150px;
+}
